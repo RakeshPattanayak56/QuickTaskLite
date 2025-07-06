@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "QuickTaskLite.Application/1.0.0": {
+        "dependencies": {
+          "QuickTaskLite.Domain": "1.0.0",
+          "QuickTaskLite.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "QuickTaskLite.Application.dll": {}
+        }
+      },
+      "QuickTaskLite.Domain/1.0.0": {
+        "runtime": {
+          "QuickTaskLite.Domain.dll": {}
+        }
+      },
+      "QuickTaskLite.Infrastructure/1.0.0": {
+        "dependencies": {
+          "QuickTaskLite.Domain": "1.0.0"
+        },
+        "runtime": {
+          "QuickTaskLite.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuickTaskLite.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuickTaskLite.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuickTaskLite.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

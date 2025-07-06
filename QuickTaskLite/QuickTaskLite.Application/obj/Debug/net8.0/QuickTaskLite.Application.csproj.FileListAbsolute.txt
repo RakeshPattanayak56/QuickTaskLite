@@ -1,0 +1,17 @@
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Application\bin\Debug\net8.0\QuickTaskLite.Application.deps.json
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Application\bin\Debug\net8.0\QuickTaskLite.Application.dll
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Application\bin\Debug\net8.0\QuickTaskLite.Application.pdb
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Application\bin\Debug\net8.0\QuickTaskLite.Domain.dll
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Application\bin\Debug\net8.0\QuickTaskLite.Domain.pdb
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Application\obj\Debug\net8.0\QuickTaskLite.Application.csproj.AssemblyReference.cache
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Application\obj\Debug\net8.0\QuickTaskLite.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Application\obj\Debug\net8.0\QuickTaskLite.Application.AssemblyInfoInputs.cache
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Application\obj\Debug\net8.0\QuickTaskLite.Application.AssemblyInfo.cs
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Application\obj\Debug\net8.0\QuickTaskLite.Application.csproj.CoreCompileInputs.cache
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Application\obj\Debug\net8.0\QuickTas.F485F67C.Up2Date
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Application\obj\Debug\net8.0\QuickTaskLite.Application.dll
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Application\obj\Debug\net8.0\refint\QuickTaskLite.Application.dll
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Application\obj\Debug\net8.0\QuickTaskLite.Application.pdb
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Application\obj\Debug\net8.0\ref\QuickTaskLite.Application.dll
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Application\bin\Debug\net8.0\QuickTaskLite.Infrastructure.dll
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Application\bin\Debug\net8.0\QuickTaskLite.Infrastructure.pdb

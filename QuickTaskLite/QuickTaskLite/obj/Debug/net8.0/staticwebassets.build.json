@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fVhJvxeyGX0QMM/A2zXeF4wMsTu9V30zIhL8yLNr6D0=",
+  "Source": "QuickTaskLite.Api",
+  "BasePath": "_content/QuickTaskLite.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

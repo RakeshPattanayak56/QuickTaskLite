@@ -1,0 +1,9 @@
+<form [formGroup]="taskForm" (ngSubmit)="onSubmit()">
+  <input formControlName="title" placeholder="Title" />
+  <input type="date" formControlName="dueDate" />
+  <label>
+    <input type="checkbox" formControlName="isCompleted" />
+    Completed
+  </label>
+  <button type="submit">Add Task</button>
+</form>

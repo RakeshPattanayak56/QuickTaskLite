@@ -1,0 +1,15 @@
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Infrastructure\bin\Debug\net8.0\QuickTaskLite.Infrastructure.deps.json
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Infrastructure\bin\Debug\net8.0\QuickTaskLite.Infrastructure.dll
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Infrastructure\bin\Debug\net8.0\QuickTaskLite.Infrastructure.pdb
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Infrastructure\bin\Debug\net8.0\QuickTaskLite.Domain.dll
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Infrastructure\bin\Debug\net8.0\QuickTaskLite.Domain.pdb
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Infrastructure\obj\Debug\net8.0\QuickTaskLite.Infrastructure.csproj.AssemblyReference.cache
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Infrastructure\obj\Debug\net8.0\QuickTaskLite.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Infrastructure\obj\Debug\net8.0\QuickTaskLite.Infrastructure.AssemblyInfoInputs.cache
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Infrastructure\obj\Debug\net8.0\QuickTaskLite.Infrastructure.AssemblyInfo.cs
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Infrastructure\obj\Debug\net8.0\QuickTaskLite.Infrastructure.csproj.CoreCompileInputs.cache
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Infrastructure\obj\Debug\net8.0\QuickTas.822D1731.Up2Date
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Infrastructure\obj\Debug\net8.0\QuickTaskLite.Infrastructure.dll
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Infrastructure\obj\Debug\net8.0\refint\QuickTaskLite.Infrastructure.dll
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Infrastructure\obj\Debug\net8.0\QuickTaskLite.Infrastructure.pdb
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Infrastructure\obj\Debug\net8.0\ref\QuickTaskLite.Infrastructure.dll

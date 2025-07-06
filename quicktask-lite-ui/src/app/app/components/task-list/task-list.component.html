@@ -1,0 +1,18 @@
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Due Date</th>
+      <th>Completed</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let task of tasks">
+      <td>{{ task.title }}</td>
+      <td>{{ task.dueDate | date }}</td>
+      <td>{{ task.isCompleted }}</td>
+      <td>{{ task.statusLabel }}</td>
+    </tr>
+  </tbody>
+</table>

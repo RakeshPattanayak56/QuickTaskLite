@@ -1,0 +1,11 @@
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Domain\bin\Debug\net8.0\QuickTaskLite.Domain.deps.json
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Domain\bin\Debug\net8.0\QuickTaskLite.Domain.dll
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Domain\bin\Debug\net8.0\QuickTaskLite.Domain.pdb
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Domain\obj\Debug\net8.0\QuickTaskLite.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Domain\obj\Debug\net8.0\QuickTaskLite.Domain.AssemblyInfoInputs.cache
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Domain\obj\Debug\net8.0\QuickTaskLite.Domain.AssemblyInfo.cs
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Domain\obj\Debug\net8.0\QuickTaskLite.Domain.csproj.CoreCompileInputs.cache
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Domain\obj\Debug\net8.0\QuickTaskLite.Domain.dll
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Domain\obj\Debug\net8.0\refint\QuickTaskLite.Domain.dll
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Domain\obj\Debug\net8.0\QuickTaskLite.Domain.pdb
+D:\TempRepo\QuickTaskLite\QuickTaskLite\QuickTaskLite.Domain\obj\Debug\net8.0\ref\QuickTaskLite.Domain.dll
